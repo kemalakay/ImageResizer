@@ -3,7 +3,7 @@ A tool to do batch resizing with your images
 
 ### Why?
 
-Often times working with images, I sometimes find myself having resizing multiple images, both at work and at home. Normally, I use Photoshop to do this task as I couldn't find any free alternative to resize images, specifically. However, after a more thorough research, I found [PIL](http://www.pythonware.com/products/pil/). A free Python library to resize images in batches via scripting. Regardless, this is still not a very user friendly solution as there are no interfaces to load images or specify directory. 
+Often times working with images, I sometimes find myself having resizing multiple images, both at work and at home. Normally, I use Photoshop to do this task as I couldn't find any free alternative to resize images, specifically. However, after a more thorough research, I found [PIL](http://www.pythonware.com/products/pil/). A free Python library to resize images in batches. Regardless, this is still not a very user friendly solution as there are no interfaces to load images or specify directory. 
 
 After talking to a couple of colleagues and friends, we agreed that there is a lack of such free solution on the internet. Certainly, there are many professional tools to handle this process but there is also a necessity to have this kind of application that can only serve this single purpose. That's where **Image Resizer** comes in.
 
